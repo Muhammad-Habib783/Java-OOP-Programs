@@ -1,5 +1,5 @@
 # Java-OOP-Programs
-Collection of Java programs demonstrating Object-Oriented Programming concepts such as classes, inheritance, polymorphism, encapsulation, abstraction.
+Collection of Java programs demonstrating Object-Oriented Programming concepts such as classes, inheritance, polymorphism, encapsulation, abstraction, and interfaces.
 
 
 This repository contains a collection of **Java programs** designed to practice and demonstrate **Object-Oriented Programming (OOP)** concepts.  
