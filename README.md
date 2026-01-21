@@ -44,14 +44,4 @@ Some of the key programs included:
 - **University.java / Librarytest.java** – academic system examples  
 - **Musicband.java / Stageshow.java** – entertainment-related OOP examples  
 
----
 
-## 🚀 How to Run
-
-You can either **view the repository online** or **clone it locally**:
-
-- 🔗 [View Repo on GitHub](https://github.com/Muhammad-Habib783/Java-OOP-Programs)
-
-- 💻 Clone the repository:
-  ```bash
-  git clone https://github.com/Muhammad-Habib783/Java-OOP-Programs.git
